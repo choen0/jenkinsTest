@@ -12,4 +12,4 @@ call cmake .. -G "Visual Studio 17 2022"
 call cmake --build . --config Debug 
 
 start cmd /K call "./bin/conan_example.exe"
-cd ..
+cd..
