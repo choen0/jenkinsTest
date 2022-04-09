@@ -1,0 +1,1 @@
+curl -X post -L --user Tricksero:11ca32c4ba2457d79c0fe63ed0757e7444 http://192.168.56.1:8080/crumbIssuer/api/xml?xpath=concat(//crumbRequestField,":",//crumb) >> output2.txt

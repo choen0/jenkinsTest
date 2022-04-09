@@ -1,0 +1,1 @@
+curl -X POST http://Tricksero:11ca32c4ba2457d79c0fe63ed0757e7444@192.168.56.1:8080/job/jenkst/build -H "Jenkins-Crumb:Trick:11ca32c4ba2457d79c0fe63ed0757e7444"
