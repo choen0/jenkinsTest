@@ -20,7 +20,7 @@ int main()
     };
 
     std::cout << "We got here" << std::to_string((int) json["pi"]) << std::endl;
-    fmt::print("yaaaaasaaa {}", 13);
+    fmt::print("yas {}", 13);
     std::cin >> k;
     return 0;
 }
